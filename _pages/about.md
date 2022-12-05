@@ -37,7 +37,7 @@ My research interest is the foundation of machine learning, especially machine l
           Labels</b></a> <br>
       Nicholas Roberts*, Xintong Li*, Tzu-Heng Huang, Dyah Adila, Spencer Schoenberg, Cheng-Yu Liu, Lauren Pick, Haotian
       Ma, Aws Albarghouthi, Frederic Sala. <br>
-      <i>NeurIPS 2022</i>. <br>
+      <i>Neural Information Processing Systems (NeurIPS), 2022</i>. <br>
       <a href="https://openreview.net/pdf?id=nQZHEunntbJ">[Paper]</a>
       <a href="https://arxiv.org/abs/2208.14362">[arXiv]</a>
       <a href="https://github.com/Sala-Group/AutoWS-Bench-101">[Code]</a>
