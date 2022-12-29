@@ -11,4 +11,4 @@ This project aims to provide suggestions to the Wisconsin Department of Natural 
 two datasets: Summer Deer Observation (SDO), reported by expertise and Operation Deer Watch (ODW), reported by volunteers. 
 We use two geographical granularities, per county and per square grid, to cluster each observation entry and apply two filter rules: Threshold and P-Value, with tests show that each of them gives positive feedback.
 
-<img src="/images/FDR_pic.png" alt="drawing" width="600"/>
+<img src="/images/FDR_pic.png" alt="drawing" width="700"/>
