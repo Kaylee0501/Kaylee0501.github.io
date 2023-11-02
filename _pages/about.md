@@ -11,11 +11,12 @@ redirect_from:
 
 ## About me
 Hi, I'm __Kaylee__.
-I am an undergraduate student in CS & DS at [University of Wisconsin -- Madison](https://www.cs.wisc.edu). I am fortunate to be advised by Prof. [Fred Sala](https://pages.cs.wisc.edu/~fredsala/) and Prof. [Jelena Diakonikolas](https://www.jelena-diakonikolas.com/).
+I am a first-year Ph.D. student in Computer Science at [University of California, San Diego](https://ucsd.edu/). I am fortunate to be advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/)  Previously, I received my B.S. degree in Computer Science and Data Science at [University of Wisconsin – Madison](https://www.cs.wisc.edu/), where I worked with Prof. [Fred Sala](https://pages.cs.wisc.edu/~fredsala/) and Prof. [Jelena Diakonikolas](https://www.jelena-diakonikolas.com/).
 
 My research interest is efficient machine learning, especially weak supervision, AutoML, and large-scale data analysis. I am eager to come up with new ideas to help **reduce the need for expensive labeled data**. I am also working on broadening the scope of machine learning methods toward **the long tail of diverse and under-studied application fields** -- far beyond well-explored domains such as vision and NLP. 
 
 ## News
+- Sep 2023: [Geometry-Aware Adaptation for Pretrained Models](https://arxiv.org/abs/2307.12226) is accepted to NeurIPS '23!
 - Sep 2022: [AutoWS-Bench-101](https://arxiv.org/abs/2208.14362) is accepted to NeurIPS '22!
 
 ## Publications
@@ -25,7 +26,8 @@ My research interest is efficient machine learning, especially weak supervision,
       <a href="#"><b>Escaping Label Subspaces via Label Geometry</b></a>
       <br>
       Nicholas Roberts, <b>Xintong Li</b>, Dyah Adila, Sonia Cromp, Tzu-Heng Huang, Jitian Zhao, Frederic Sala. <br>
-      <i>Under review</i>. <br>
+      <i>Neural Information Processing Systems (NeurIPS), 2023</i>. <br>
+      <a href="https://arxiv.org/abs/2307.12226">[arXiv]</a>      
     </p>
   </li>
 </ul>
