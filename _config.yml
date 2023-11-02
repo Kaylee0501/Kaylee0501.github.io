@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xintong Li"
 title_separator          : "-"
 name                     : &name "Xintong Li"
-description              : &description "CS Undergraduate Student at UW-Madison"
+description              : &description "CS Ph.D. candidate at UCSD"
 url                      : https://Kaylee0501.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kaylee0501.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xintong Li"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Student at UW-Madison"
-  location         : "Madison, WI"
+  bio              : "Ph.D. candidate at UCSD"
+  location         : "San Diego, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aPeHIlUAAAAJ&hl=en"
-  email            : "xli2224@wisc.edu"
+  email            : "xil240@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
