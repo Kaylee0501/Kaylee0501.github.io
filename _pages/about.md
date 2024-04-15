@@ -23,10 +23,12 @@ My research interest is efficient machine learning, especially weak supervision,
 <ul>
   <li>
     <p>
-      <a href="#"><b>Escaping Label Subspaces via Label Geometry</b></a>
+      <a href="#"><b>Geometry-aware adaptation for pretrained models</b></a>
       <br>
       Nicholas Roberts, <b>Xintong Li</b>, Dyah Adila, Sonia Cromp, Tzu-Heng Huang, Jitian Zhao, Frederic Sala. <br>
-      <i>Neural Information Processing Systems (NeurIPS), 2023</i>. <br>
+      <i>Neural Information Processing Systems (NeurIPS), 2023</i>. <be>
+      <>
+      <a href="https://openreview.net/pdf?id=exGOXqxR0L">[Paper]</a>
       <a href="https://arxiv.org/abs/2307.12226">[arXiv]</a>      
     </p>
   </li>
