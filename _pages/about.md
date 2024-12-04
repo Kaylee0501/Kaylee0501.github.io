@@ -17,7 +17,7 @@ Please get in touch with me via email if you would like to discuss research or p
 
 ## News
 - Sep 2024: [X-MLClass](https://arxiv.org/abs/2407.05609) is accepted to EMNLP '24 main conference!
-- Jun 2024: I have started my summer internship as an Applied Scientist Intern at Amazon Alexa AI!
+- Jun 2024: I have started my summer internship as an Applied Scientist Intern at Amazon!
 - Sep 2023: [Geometry-Aware Adaptation for Pretrained Models](https://arxiv.org/abs/2307.12226) is accepted to NeurIPS '23!
 - Sep 2022: [AutoWS-Bench-101](https://arxiv.org/abs/2208.14362) is accepted to NeurIPS '22!
 
