@@ -13,7 +13,7 @@ redirect_from:
 Hi, I'm __Kaylee__.
 I am a second-year Ph.D. student in Computer Science at [University of California, San Diego](https://ucsd.edu/). I am fortunate to be advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/).  Previously, I received my B.S. degree in Computer Science and Data Science at [University of Wisconsin – Madison](https://www.cs.wisc.edu/), where I worked with Prof. [Fred Sala](https://pages.cs.wisc.edu/~fredsala/) and Prof. [Jelena Diakonikolas](https://www.jelena-diakonikolas.com/).
 
-My research focuses on efficient machine learning, with particular interest in LLM reasoning, multimodal optimization, and weak supervision. I am currently working on **balancing different modalities in multimodal instruction tuning** to improve model accuracy and efficiency. Additionally, I aim to **enhance model reasoning and persona capabilities through data‑efficient methods**. I am always eager to broaden the scope of machine learning methods toward **the long tail of under‑studied application fields**.
+My research focuses on efficient machine learning, with particular interest in LLM reasoning, multimodal optimization, and weak supervision. I am currently working on **balancing different modalities in multimodal instruction tuning** to improve performance and mitigate catastrophic forgetting. Additionally, I aim to **enhance model reasoning and persona abilities through data‑efficient methods**. I am always eager to broaden the scope of machine learning methods toward **the long tail of under‑studied application fields**.
 
 Please get in touch with me via email if you would like to discuss research or potential collaborations!
 
