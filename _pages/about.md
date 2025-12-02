@@ -11,17 +11,16 @@ redirect_from:
 
 ## About me
 Hi, I'm __Kaylee__.
-I am a second-year Ph.D. student in Computer Science at [University of California, San Diego](https://ucsd.edu/). I am fortunate to be advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/).  Previously, I received my B.S. degree in Computer Science and Data Science at [University of Wisconsin – Madison](https://www.cs.wisc.edu/), where I worked with Prof. [Fred Sala](https://pages.cs.wisc.edu/~fredsala/) and Prof. [Jelena Diakonikolas](https://www.jelena-diakonikolas.com/).
+I am a third-year Ph.D. student in Computer Science at [University of California, San Diego](https://ucsd.edu/). I am fortunate to be advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/).  Previously, I received my B.S. degree in Computer Science and Data Science at [University of Wisconsin – Madison](https://www.cs.wisc.edu/), where I worked with Prof. [Fred Sala](https://pages.cs.wisc.edu/~fredsala/) and Prof. [Jelena Diakonikolas](https://www.jelena-diakonikolas.com/).
 
-My research focuses on efficient machine learning, with particular interest in LLM reasoning, multimodal optimization, and weak supervision. I am currently working on **balancing different modalities in multimodal instruction tuning** to improve performance and mitigate catastrophic forgetting. Additionally, I aim to **enhance model reasoning and persona abilities through data‑efficient methods**. I am always eager to broaden the scope of machine learning methods toward **the long tail of under‑studied application fields**.
+My research focuses on efficient machine learning, with a particular interest in reasoning and multimodality. I aim to enhance multimodal reasoning ability by encouraging models to leverage **non-textual modalities more effectively**. I have also developed methods to **mitigate hallucination and reduce catastrophic forgetting** during multimodal instruction tuning.
+Beyond multimodal reasoning, my broader work in **reinforcement learning based post-training** focuses on improving reasoning efficiency and stability in both text-only and multimodal models. Over the past summer, I have been developing methods for **long-to-short reasoning**.
 
 Please get in touch with me via email if you would like to discuss research or potential collaborations!
 
 ## News
-- Sep 2024: [X-MLClass](https://arxiv.org/abs/2407.05609) is accepted to EMNLP '24 main conference!
-- Jun 2024: I have started my summer internship as an Applied Scientist Intern at Amazon Alexa AI!
-- Sep 2023: [Geometry-Aware Adaptation for Pretrained Models](https://arxiv.org/abs/2307.12226) is accepted to NeurIPS '23!
-- Sep 2022: [AutoWS-Bench-101](https://arxiv.org/abs/2208.14362) is accepted to NeurIPS '22!
+- Sep 2025: Four papers are accepted to EMNLP '25 conference!
+- Jun 2025: I have started my summer internship as an Applied Scientist Intern at Amazon Rufus Team!
 
 ## Selected Publications
 
